@@ -2,7 +2,7 @@
 
 CSS (*Cascading Style Sheets*) är ett språk som används för att styla en hemsida. Det är CSS som bestämmer färger, textstorlek, marginaler, placering och mycket mer.
 
-En CSS-fil sparas oftast med filtillägget `.css`.
+En CSS-fil sparas med filtillägget `.css`.
 
 ## Grundläggande struktur
 

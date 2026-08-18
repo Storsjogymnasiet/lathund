@@ -1,6 +1,8 @@
 # Hur en HTML-fil är uppbyggd
 
-En HTML-fil är en textfil som innehåller struktur och innehåll för en hemsida. Den sparas oftast med filtillägget `.html`.
+HTML (*Hypertext Markup Language*) är ett språk som används för att strukturera innehållet på en hemsida. 
+
+En HTML-fil sparas med filtillägget `.html`.
 
 ## Grundläggande struktur
 
