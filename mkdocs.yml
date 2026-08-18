@@ -1,0 +1,26 @@
+site_name: Lathunden
+
+theme:
+  name: material
+  language: sv
+  palette:
+    # Låter eleverna växla mellan mörkt och ljust läge
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: Byt till mörkt läge
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: Byt till ljust läge
+
+# Menyn för din lathund
+#nav:
+#  - Hem: index.md
+#  - HTML & CSS:
+#      - HTML-grunder: html-grunder.md
+#      - CSS Flexbox: css-flexbox.md
+#  - JavaScript:
+#      - Variabler & Typer: js-variabler.md
