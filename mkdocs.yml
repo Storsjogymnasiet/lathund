@@ -17,10 +17,13 @@ theme:
         name: Byt till ljust läge
 
 # Menyn för din lathund
-#nav:
-#  - Hem: index.md
-#  - HTML & CSS:
-#      - HTML-grunder: html-grunder.md
-#      - CSS Flexbox: css-flexbox.md
-#  - JavaScript:
-#      - Variabler & Typer: js-variabler.md
+nav:
+  - Hem: index.md
+  - Webbutveckling:
+      - Webbutveckling: webbutveckling/_index.md
+      - HTML Grunder: webbutveckling/html-structure.md
+      - CSS Grunder: webbutveckling/css-structure.md
+  - Programmering:
+      - Programmering: programmering/_index.md
+  - Git:
+      - Skapa nytt Repo: git/Skapa nytt Repo.md
